@@ -1,0 +1,2 @@
+# StringsChallenge
+In this project I created an application that has 4 mini challenges to reverse information. The first challenge will reverse your name and spell it backwards. The second challenge will reverse the order in an array. The third challenge will take a string of names and create ascii art. And the fourth challenge will take a string with words that do not make sense and put it into a sentence. 
